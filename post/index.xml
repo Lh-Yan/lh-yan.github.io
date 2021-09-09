@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | My New Hugo Site</title>
+    <link>http://lh-yan.github.io/post/</link>
+      <atom:link href="http://lh-yan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Sep 2021 20:47:32 +0800</lastBuildDate>
+    <image>
+      <url>http://lh-yan.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_box_center_3.png</url>
+      <title>Posts</title>
+      <link>http://lh-yan.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>First_blog</title>
+      <link>http://lh-yan.github.io/post/first_blog/</link>
+      <pubDate>Thu, 09 Sep 2021 20:47:32 +0800</pubDate>
+      <guid>http://lh-yan.github.io/post/first_blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
